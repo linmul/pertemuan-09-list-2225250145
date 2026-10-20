@@ -18,7 +18,6 @@ Mempelajari cara menyimpan, mengakses, memanipulasi, dan mengolah kumpulan data 
 
 ## Cara Menjalankan Program Praktik
 Buka terminal di VS Code, lalu jalankan perintah berikut:
-(```bash)
 python3 praktik/analisis_nilai_mahasiswa.py
 
 ## Test Case
