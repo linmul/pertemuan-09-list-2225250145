@@ -22,7 +22,6 @@ Buka terminal di VS Code, lalu jalankan perintah berikut:
 python3 praktik/analisis_nilai_mahasiswa.py
 
 ## Test Case
-
 | Data Masukan | Yang Diperiksa | Hasil yang Diharapkan | Status |
 | :--- | :--- | :--- | :--- |
 | [60, 70, 80] | Rata-rata | 70.00 | Lulus |
