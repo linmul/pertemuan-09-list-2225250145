@@ -31,6 +31,7 @@ python3 praktik/analisis_nilai_mahasiswa.py
 | [59, 60, 61] | Batas kelulusan | 2 orang lulus | Lulus |
 | [] | List kosong | Tidak error (0) | Lulus |
 
+
 ## Refleksi
 Pemahaman: Saya memahami bahwa indeks list di Python dimulai dari angka 0, serta pemanfaatan fungsi len() dan sum() sangat memudahkan proses agregasi data numerik tanpa harus melakukan iterasi manual yang panjang.   
 Kendala/Perbaikan: Sempat mengalami kesalahan logika saat menyaring kelulusan akibat salah menentukan batas kondisi if x >= 60, namun berhasil diperbaiki dengan menyesuaikan kembali parameter operator perbandingannya.
