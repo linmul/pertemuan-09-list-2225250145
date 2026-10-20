@@ -22,7 +22,14 @@ Buka terminal di VS Code, lalu jalankan perintah berikut:
 python3 praktik/analisis_nilai_mahasiswa.py
 
 ## Test Case
-Data MasukanYang DiperiksaHasil yang DiharapkanStatus[60, 70, 80]Rata-rata70.00Lulus   [60, 70, 80]Minimum / Maksimum60 / 80Lulus   [60, 70, 80]Jumlah lulus3Lulus   [59, 60, 61]Batas kelulusan (60)2 orang lulusLulus   []Penanganan list kosong pada fungsi rata-rataTidak error (0)Lulus   
+
+| Data Masukan | Yang Diperiksa | Hasil yang Diharapkan | Status |
+|---|---|---|---|
+| [60, 70, 80] | Rata-rata | 70.00 | Lulus |
+| [60, 70, 80] | Min / Maks | 60 / 80 | Lulus |
+| [60, 70, 80] | Jumlah lulus | 3 | Lulus |
+| [59, 60, 61] | Batas kelulusan | 2 orang lulus | Lulus |
+| [] | List kosong | Tidak error (0) | Lulus |
 
 ## Refleksi
 Pemahaman: Saya memahami bahwa indeks list di Python dimulai dari angka 0, serta pemanfaatan fungsi len() dan sum() sangat memudahkan proses agregasi data numerik tanpa harus melakukan iterasi manual yang panjang.   
